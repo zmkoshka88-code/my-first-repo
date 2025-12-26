@@ -7,6 +7,6 @@ FOSS stands for Free and Open Source Software.
 - Freedom to distribute
 - Freedom to distribute modified versions
 
-Created by: Lili Zozo
+Created by: maouahib
 Email: zmkoshka88@gmail.com
 Date: Fri Dec 26 20:37:08 CUT 2025
