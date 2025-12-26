@@ -1,0 +1,12 @@
+# About Free and Open Source Software (FOSS)
+FOSS stands for Free and Open Source Software.
+
+## Key Principles:
+- Freedom to use for any purpose
+- Freedom to study and modify
+- Freedom to distribute
+- Freedom to distribute modified versions
+
+Created by: Lili Zozo
+Email: lilizozo@gmail.com
+Date: Fri Dec 26 20:37:08 CUT 2025
